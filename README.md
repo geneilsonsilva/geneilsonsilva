@@ -1,9 +1,5 @@
 # 👨‍💻 Geneilson Silva
 
-Desenvolvedor Flutter experiente, transformando ideias em aplicativos inovadores e eficientes. Criando soluções personalizadas que encantam clientes e impulsionam negócios. Vamos construir juntos o sucesso do seu projeto!
-
-## 🔗 Conecte-se comigo
-
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/geneilsonoliveira2002?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:geneilsonoliveira2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/geneilsonsilva/)
