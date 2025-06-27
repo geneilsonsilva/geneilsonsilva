@@ -31,8 +31,8 @@ Meu nome é Geneilson Silva, atualmente moro no Brasil!
 ## 📊 GitHub Stats
 
 <div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geneilson7&show_icons=true&theme=tokyonight"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geneilson7&layout=compact&theme=tokyonight"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geneilsonsilva&show_icons=true&theme=tokyonight"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geneilsonsilva&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
