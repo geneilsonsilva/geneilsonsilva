@@ -16,7 +16,7 @@ Sou **Desenvolvedor de Software**, com foco em entregar soluções práticas, es
 
 ### 🚀 Tecnologias e Experiência
 
-- **Frontend**: React · TypeScript · Flutter  
+- **Frontend**: Flutter · React · TypeScript
 - **Backend**: Dart · Node.js · Python (Django) · PHP · Elixir  
 - **Banco de Dados**: PostgreSQL · MySQL · SQL Server · SQLite · SQL puro  
 - **Outros**: APIs RESTful · Autenticação · Integrações · Microsserviços · Git · RPA · Geração de PDFs
